@@ -1,6 +1,6 @@
 // Scilab script to implement a Piecewise Cubic of type "monotone"
 // Source code was written in Scilab online (https://cloud.scilab.in)
-// Author: Mainuddin Alam Irteja (A00446752)
+// Author: Mainuddin Alam Irteja 
 
 //setting global variables
 h = 2 * (%pi)

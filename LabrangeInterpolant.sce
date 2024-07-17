@@ -1,6 +1,6 @@
 // Scilab script to implement Standard Lagrange Interpolant with uniform points
 // Source code was written in Scilab online (https://cloud.scilab.in)
-// Author: Mainuddin Alam Irteja (A00446752)
+// Author: Mainuddin Alam Irteja 
 
 // Construct standard Lagrange interpolant to data set x = [-1.0, -4.0/5.0, -3.0/5.0,
 // -2.0/5.0, -1.0/5.0, 0, 1.0/5.0, 2.0/5.0, 3.0/5.0, 4.0/5.0, 1.0],

@@ -1,6 +1,6 @@
 // Scilab script to implement Hybrid Full/Fixed Jacobian method
 // Source code was written in Scilab online (https://cloud.scilab.in)
-// Author: Mainuddin Alam Irteja (A00446752)
+// Author: Mainuddin Alam Irteja 
 
 // Employ Hybrid Full/Fixed Jacobian iteration to solve
 // f_1(x_1, x_2) = x^2_1+ x^2_2- 3=0,
